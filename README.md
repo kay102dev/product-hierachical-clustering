@@ -1,5 +1,7 @@
 # Product Segmentation with Hierarchical Clustering
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kay102dev/product-hierachical-clustering/blob/main/notebooks/analysis.ipynb)
+
 ## Problem Statement
 An online retailer needs actionable segmentation of its product catalogue to improve marketing efficiency, inventory turnover, and cash-flow planning. Using engineered sales features, the goal is to discover product groups with distinct purchasing patterns and translate those into clear commercial actions (discounting, campaign prioritisation, and stocking decisions).
 
